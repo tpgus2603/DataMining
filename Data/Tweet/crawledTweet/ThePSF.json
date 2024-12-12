@@ -1,0 +1,504 @@
+[{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1867226108862570674",
+  "id": "1867226108862570674",
+  "text": "💙🐍💛❓\nDo you love #Python? One way to show your support is to give to the PSF during our annual fundraiser: https://t.co/dqzhw2lz6H\n\nWe're a tiny but mighty team here at the PSF, and every single gift makes a difference to #PowerPython and its community! https://t.co/nhyBNssfzl"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1867224285468872712",
+  "id": "1867224285468872712",
+  "text": "RT @pycon: #PyConUS 2025 registration and Travel Grant applications are now OPEN!!! Early bird discounts are available for the first 500 ti…"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1866928482464190842",
+  "id": "1866928482464190842",
+  "text": "📣Attention nonprofits &amp; community projects📣 apply for a community booth in the expo hall at #PyConUS 2025 for a unique chance to connect with the #Python community. Applications open until February 5, but don’t wait, there are limited slots available!\nhttps://t.co/ETcP8gpxT9"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1866584970812137548",
+  "id": "1866584970812137548",
+  "text": "The December edition of the PSF Board Office Hour is about to begin 🐍 🗒️ 9 PM UTC. Join us to share how we can help your community, express your perspectives, and provide feedback for the PSF! #python https://t.co/HVfkfZMnwt\nhttps://t.co/HVfkfZMnwt"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1866552615838028052",
+  "id": "1866552615838028052",
+  "text": "RT @pycon: Time is flying by! #PyConUS 2025 Call for Proposals is only open for 10 more days!\n\nDon't wait, head to https://t.co/UdXspvsi8b…"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1866509978674106602",
+  "id": "1866509978674106602",
+  "text": "Sending our thanks to YOU &amp; @jetbrains today 🙌🐍🙌 we raised $30k through the @pycharm fundraiser collaboration!! The promo is over but you can still participate in our end-of-year fundraiser. Help us #PowerPython &amp; the #Python community we all love 💝\n\nhttps://t.co/dqzhw2lz6H https://t.co/iYbZO8n2qD"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1866208462864015599",
+  "id": "1866208462864015599",
+  "text": "RT @pyladiescon: 🎉 #PyLadiesCon 2024 Wrapped Up! 🐍💻\n\nThank you to our amazing community for making this event a massive success! 🙌💖\n\n📢 More…"
+},
+{
+  "author": {
+    "type": "user",
+    "userName": "ThePSF",
+    "url": "https://x.com/ThePSF",
+    "twitterUrl": "https://twitter.com/ThePSF",
+    "id": "63873759",
+    "name": "Python Software Foundation",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517584461017370624/DF3DpXUW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/63873759/1731689636",
+    "description": "The nonprofit organization behind the Python programming language. For help with Python code: https://t.co/XDHPttz2Xv\n\nOn Mastodon: @ThePSF@fosstodon.org",
+    "location": "Everywhere Python is!",
+    "followers": 674207,
+    "following": 129,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 08 01:26:03 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "python.org/about/help/",
+            "expanded_url": "http://python.org/about/help/",
+            "url": "https://t.co/XDHPttz2Xv",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "python.org/psf",
+            "expanded_url": "http://www.python.org/psf",
+            "url": "https://t.co/vqnHCy91io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 730,
+    "statusesCount": 6744,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "twitterUrl": "https://twitter.com/ThePSF/status/1866086714487226651",
+  "id": "1866086714487226651",
+  "text": "The PSF Grants Program has impacted approximately 30,000 people with more than 90 grants in 2024 to conferences, workshops, and #Python related initiatives 🤯🤯 Help #PowerPython and our Grants Program with a donation or become a Supporting member!\n\nhttps://t.co/dqzhw2lz6H https://t.co/ytKlsdLnhU"
+}]
