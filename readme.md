@@ -1,5 +1,9 @@
 데이터마이닝 프로젝트 
+--
 
+RecommendSystem.ipynb파일이 content-based 와 colaborative filtering을 통한 추천시스템코드  user_review, 
+
+TweetCategoryFinal (1).ipynb파일이 사용자 트위터 데이터에 대해 LSH를 적용하여 클러스터링 및 선호 카테고리를 추출한 코드입니다
 
 트위터 크롤링
 
